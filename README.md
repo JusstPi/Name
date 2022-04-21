@@ -1,5 +1,5 @@
 # DebitCard
-These are just school works!! TY
+These are just school works!!TY!
 Define a Name class with attributes: 
 String firstname, middle name, lastname. 
 Include the following methods:
